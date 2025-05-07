@@ -1,0 +1,7 @@
+streamlit
+openai
+ollama
+psycopg2-binary
+pandas
+matplotlib
+seaborn
